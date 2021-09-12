@@ -1,0 +1,31 @@
+h1{
+	color: red;
+}
+
+
+span{
+	color: red;
+}
+
+h2{
+	background-color: green;
+	color: #fff;
+}
+
+
+li{
+	border: 1px solid black;
+	font-size: 30px;
+}
+
+.fisrt__homework{
+	background-color: blue;
+	width: 100px;
+	height: 80px;
+	color: #fff;
+}
+
+
+.question{
+	padding: 50px;
+}
